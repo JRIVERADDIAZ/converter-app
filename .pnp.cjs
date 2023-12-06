@@ -49,7 +49,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-dom", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:18.2.0"],\
             ["react-router-dom", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:6.16.0"],\
             ["react-test-renderer", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:18.2.0"],\
-            ["vite", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:4.4.11"],\
+            ["vite", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:4.5.1"],\
             ["whatwg-fetch", "npm:3.6.19"]\
           ],\
           "linkType": "SOFT"\
@@ -3751,7 +3751,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/babel__core", "npm:7.20.2"],\
             ["@types/vite", null],\
             ["react-refresh", "npm:0.14.0"],\
-            ["vite", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:4.4.11"]\
+            ["vite", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:4.5.1"]\
           ],\
           "packagePeers": [\
             "@types/vite",\
@@ -7423,7 +7423,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-dom", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:18.2.0"],\
             ["react-router-dom", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:6.16.0"],\
             ["react-test-renderer", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:18.2.0"],\
-            ["vite", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:4.4.11"],\
+            ["vite", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:4.5.1"],\
             ["whatwg-fetch", "npm:3.6.19"]\
           ],\
           "linkType": "SOFT"\
@@ -9305,17 +9305,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["vite", [\
-        ["npm:4.4.11", {\
-          "packageLocation": "./.yarn/cache/vite-npm-4.4.11-e7ab057df9-c22145c838.zip/node_modules/vite/",\
+        ["npm:4.5.1", {\
+          "packageLocation": "./.yarn/cache/vite-npm-4.5.1-567bbcf9ff-72b3584b3d.zip/node_modules/vite/",\
           "packageDependencies": [\
-            ["vite", "npm:4.4.11"]\
+            ["vite", "npm:4.5.1"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:4.4.11", {\
-          "packageLocation": "./.yarn/__virtual__/vite-virtual-7abc83c670/0/cache/vite-npm-4.4.11-e7ab057df9-c22145c838.zip/node_modules/vite/",\
+        ["virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:4.5.1", {\
+          "packageLocation": "./.yarn/__virtual__/vite-virtual-208eaa9239/0/cache/vite-npm-4.5.1-567bbcf9ff-72b3584b3d.zip/node_modules/vite/",\
           "packageDependencies": [\
-            ["vite", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:4.4.11"],\
+            ["vite", "virtual:c6a163e6bd832122702c7b0b2bc057bbd3453aecd2a4e171ddda29998070825ebf62da872854aea308e0616470ee3f5153aea7c729ad0b831129fdc2270688e8#npm:4.5.1"],\
             ["@types/less", null],\
             ["@types/lightningcss", null],\
             ["@types/node", null],\
@@ -18328,7 +18328,6 @@ function reportRequiredFilesToWatchMode(files) {
 }
 
 function applyPatch(pnpapi, opts) {
-  const defaultCache = {};
   let enableNativeHooks = true;
   process.versions.pnp = String(pnpapi.VERSIONS.std);
   const moduleExports = require$$0__default.default;
@@ -18348,62 +18347,13 @@ function applyPatch(pnpapi, opts) {
   }
   const originalModuleLoad = require$$0.Module._load;
   require$$0.Module._load = function(request, parent, isMain) {
-    if (!enableNativeHooks)
-      return originalModuleLoad.call(require$$0.Module, request, parent, isMain);
-    if (isBuiltinModule(request)) {
-      try {
-        enableNativeHooks = false;
-        return originalModuleLoad.call(require$$0.Module, request, parent, isMain);
-      } finally {
-        enableNativeHooks = true;
+    if (request === `pnpapi`) {
+      const parentApiPath = opts.manager.getApiPathFromParent(parent);
+      if (parentApiPath) {
+        return opts.manager.getApiEntry(parentApiPath, true).instance;
       }
     }
-    const parentApiPath = opts.manager.getApiPathFromParent(parent);
-    const parentApi = parentApiPath !== null ? opts.manager.getApiEntry(parentApiPath, true).instance : null;
-    if (parentApi === null)
-      return originalModuleLoad(request, parent, isMain);
-    if (request === `pnpapi`)
-      return parentApi;
-    const modulePath = require$$0.Module._resolveFilename(request, parent, isMain);
-    const isOwnedByRuntime = parentApi !== null ? parentApi.findPackageLocator(modulePath) !== null : false;
-    const moduleApiPath = isOwnedByRuntime ? parentApiPath : opts.manager.findApiPathFor(npath.dirname(modulePath));
-    const entry = moduleApiPath !== null ? opts.manager.getApiEntry(moduleApiPath) : { instance: null, cache: defaultCache };
-    const cacheEntry = entry.cache[modulePath];
-    if (cacheEntry) {
-      if (cacheEntry.loaded === false && cacheEntry.isLoading !== true) {
-        try {
-          cacheEntry.isLoading = true;
-          if (isMain) {
-            process.mainModule = cacheEntry;
-            cacheEntry.id = `.`;
-          }
-          cacheEntry.load(modulePath);
-        } finally {
-          cacheEntry.isLoading = false;
-        }
-      }
-      return cacheEntry.exports;
-    }
-    const module = new require$$0.Module(modulePath, parent != null ? parent : void 0);
-    module.pnpApiPath = moduleApiPath;
-    reportRequiredFilesToWatchMode([modulePath]);
-    entry.cache[modulePath] = module;
-    if (isMain) {
-      process.mainModule = module;
-      module.id = `.`;
-    }
-    let hasThrown = true;
-    try {
-      module.isLoading = true;
-      module.load(modulePath);
-      hasThrown = false;
-    } finally {
-      module.isLoading = false;
-      if (hasThrown) {
-        delete require$$0.Module._cache[modulePath];
-      }
-    }
-    return module.exports;
+    return originalModuleLoad.call(require$$0.Module, request, parent, isMain);
   };
   function getIssuerSpecsFromPaths(paths) {
     return paths.map((path) => ({
@@ -18471,7 +18421,7 @@ function applyPatch(pnpapi, opts) {
       const parentDirectory = (parent == null ? void 0 : parent.filename) != null ? npath.dirname(parent.filename) : null;
       const absoluteRequest = npath.isAbsolute(request) ? request : parentDirectory !== null ? npath.resolve(parentDirectory, request) : null;
       if (absoluteRequest !== null) {
-        const apiPath = parentDirectory === npath.dirname(absoluteRequest) && (parent == null ? void 0 : parent.pnpApiPath) ? parent.pnpApiPath : opts.manager.findApiPathFor(absoluteRequest);
+        const apiPath = parent && parentDirectory === npath.dirname(absoluteRequest) ? opts.manager.getApiPathFromParent(parent) : opts.manager.findApiPathFor(absoluteRequest);
         if (apiPath !== null) {
           issuerSpecs.unshift({
             apiPath,
@@ -20192,7 +20142,6 @@ function makeManager(pnpapi, opts) {
   const initialApiStats = opts.fakeFs.statSync(npath.toPortablePath(initialApiPath));
   const apiMetadata = /* @__PURE__ */ new Map([
     [initialApiPath, {
-      cache: require$$0.Module._cache,
       instance: pnpapi,
       stats: initialApiStats,
       lastRefreshCheck: Date.now()
@@ -20211,7 +20160,7 @@ function makeManager(pnpapi, opts) {
     apiEntry.lastRefreshCheck = timeNow;
     const stats = opts.fakeFs.statSync(pnpApiPath);
     if (stats.mtime > apiEntry.stats.mtime) {
-      process.emitWarning(`[Warning] The runtime detected new informations in a PnP file; reloading the API instance (${npath.fromPortablePath(pnpApiPath)})`);
+      process.emitWarning(`[Warning] The runtime detected new information in a PnP file; reloading the API instance (${npath.fromPortablePath(pnpApiPath)})`);
       apiEntry.stats = stats;
       apiEntry.instance = loadApiInstance(pnpApiPath);
     }
@@ -20224,7 +20173,6 @@ function makeManager(pnpapi, opts) {
       }
     } else {
       apiMetadata.set(pnpApiPath, apiEntry = {
-        cache: {},
         instance: loadApiInstance(pnpApiPath),
         stats: opts.fakeFs.statSync(pnpApiPath),
         lastRefreshCheck: Date.now()
@@ -20294,19 +20242,16 @@ ${controlSegment}
     } while (curr !== PortablePath.root);
     return addToCacheAndReturn(start, curr, null);
   }
+  const moduleToApiPathCache = /* @__PURE__ */ new WeakMap();
   function getApiPathFromParent(parent) {
     if (parent == null)
       return initialApiPath;
-    if (typeof parent.pnpApiPath === `undefined`) {
-      if (parent.filename !== null) {
-        return parent.pnpApiPath = findApiPathFor(parent.filename);
-      } else {
-        return initialApiPath;
-      }
-    }
-    if (parent.pnpApiPath !== null)
-      return parent.pnpApiPath;
-    return null;
+    let apiPath = moduleToApiPathCache.get(parent);
+    if (typeof apiPath !== `undefined`)
+      return apiPath;
+    apiPath = parent.filename ? findApiPathFor(parent.filename) : null;
+    moduleToApiPathCache.set(parent, apiPath);
+    return apiPath;
   }
   return {
     getApiPathFromParent,
